@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\services\\azuretexttospeechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:services\\azuretexttospeechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\services\\azuretranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:services\\azuretranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\services\\markovhaikugenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:services\\markovhaikugenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\views\\haiku\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:views\\haiku\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\services\\romaniansyllableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:services\\romaniansyllableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\controllers\\haikucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:controllers\\haikucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\models\\haikumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:models\\haikumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|d:\\desktop folders\\facultate\\net\\proiect\\5-7-5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B79814-C261-487B-B6C5-9350A0A8C7C5}|5-7-5.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:03:05.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarkovHaikuGenerator.cs",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Services\\MarkovHaikuGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\MarkovHaikuGenerator.cs",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Services\\MarkovHaikuGenerator.cs",
+              "RelativeToolTip": "Services\\MarkovHaikuGenerator.cs",
+              "ViewState": "AgIAAJMBAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:58:25.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzureTextToSpeechService.cs",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Services\\AzureTextToSpeechService.cs",
+              "RelativeDocumentMoniker": "Services\\AzureTextToSpeechService.cs",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Services\\AzureTextToSpeechService.cs",
+              "RelativeToolTip": "Services\\AzureTextToSpeechService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:17:25.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Views\\Haiku\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Haiku\\Index.cshtml",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Views\\Haiku\\Index.cshtml",
+              "RelativeToolTip": "Views\\Haiku\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T11:48:08.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RomanianSyllableService.cs",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Services\\RomanianSyllableService.cs",
+              "RelativeDocumentMoniker": "Services\\RomanianSyllableService.cs",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Services\\RomanianSyllableService.cs",
+              "RelativeToolTip": "Services\\RomanianSyllableService.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAYwMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:30:30.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureTranslationService.cs",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Services\\AzureTranslationService.cs",
+              "RelativeDocumentMoniker": "Services\\AzureTranslationService.cs",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Services\\AzureTranslationService.cs",
+              "RelativeToolTip": "Services\\AzureTranslationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:03:41.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HaikuModel.cs",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Models\\HaikuModel.cs",
+              "RelativeDocumentMoniker": "Models\\HaikuModel.cs",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Models\\HaikuModel.cs",
+              "RelativeToolTip": "Models\\HaikuModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:28:17.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T16:48:45.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:29:16.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HaikuController.cs",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Controllers\\HaikuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HaikuController.cs",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Controllers\\HaikuController.cs",
+              "RelativeToolTip": "Controllers\\HaikuController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:31:31.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:28:43.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Index.cshtml",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Views\\Index.cshtml",
+              "RelativeToolTip": "Views\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T11:31:49.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\desktop folders\\facultate\\NET\\proiect\\5-7-5\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:32:35.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
