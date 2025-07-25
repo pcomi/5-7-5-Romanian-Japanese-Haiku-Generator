@@ -1,5 +1,6 @@
-5-7-5
 5-7-5 is a .NET application for writing, generating, and translating Romanian haiku into Japanese. It validates syllable structure, supports text-to-speech in both languages, and uses Markov chains to generate new haiku based on a built-in dataset.
+
+-Video demo: https://youtu.be/qI5wgNmc92U
 
 Features include:
 
